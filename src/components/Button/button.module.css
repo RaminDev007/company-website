@@ -1,0 +1,15 @@
+.container {
+  border: none;
+  padding: 10px;
+  background-color: #53c28b;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  max-width: 300px;
+}
+
+.container:hover {
+  background-color: #fff;
+  color: #111;
+}
